@@ -18,3 +18,6 @@ sudo docker-compose up --build -d
 ```bash
 http://ip-here:8080/track?email=recipient@example.com
 ```
+```bash
+<img src="http://ip-here:8080/track?email=recipient@example.com" style="display:none;" alt="Tracking Pixel" />
+```
