@@ -16,5 +16,5 @@ This project is a Spring Boot application for tracking email opens using a track
 sudo docker-compose up --build -d
 ```
 ```bash
-http://73.69.184.249:8080/track?email=recipient@example.com
+http://ip-here:8080/track?email=recipient@example.com
 ```
