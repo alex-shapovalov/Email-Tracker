@@ -11,3 +11,7 @@ This project is a Spring Boot application for tracking email opens using a track
 3. **HTTP Support:** The application is accessible over plain HTTP without HTTPS.
 
 ---
+
+```console
+sudo docker-compose up --build -d
+```
