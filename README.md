@@ -12,6 +12,6 @@ This project is a Spring Boot application for tracking email opens using a track
 
 ---
 
-```console
+```bash
 sudo docker-compose up --build -d
 ```
